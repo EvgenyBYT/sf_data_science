@@ -1,2 +1,6 @@
-# sf_data_science
-Sf homework
+# Мои учебные проекты
+scillFactory data science
+## проекты по номерам
+* [1 проект угадай число] ()
+
+
