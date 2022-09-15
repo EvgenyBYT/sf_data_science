@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 """игра угадай число
 компьютер сам загадывает и угадывает число"""
 
-from ast import While
-from itertools import count
 import numpy as np
 
 number = np.random.randint(1,101)
@@ -28,7 +25,7 @@ def random_predict():
     return count
 
 random_predict()
-=======
-a=111*1
-print(a)
->>>>>>> master
+
+# RUN
+if __name__ == '__main__':
+    score_game(random_predict)
